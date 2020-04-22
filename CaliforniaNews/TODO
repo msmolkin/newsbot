@@ -1,0 +1,2 @@
+Need to handle cache handling gracefully so tldextract module can function.
+Merge with laptop if data wasnt wiped, squash all edits into one or two, and use commit message from there
